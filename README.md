@@ -40,7 +40,7 @@ override func viewDidLoad() {
 }
 ```
 
-## 🎨 Customize Gradient Colors
+## 🎨 Customize Graident Colors
 #### Designed by Alexander Zaytsev, https://dribbble.com/anwaltzzz
 ![Gradient.png](README/Gradient.png)
 
@@ -62,9 +62,6 @@ pod "Pastel"
 ```
 github "cruisediary/Pastel" ~> 0.3.0
 ```
-
-## Example
-- [Passcode](https://github.com/cruisediary/Passcode): A simple Passcode application using RxSwift, ReactorKit, IGListKit with Pastel
 
 ## Author
 
